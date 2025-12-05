@@ -1,0 +1,5 @@
+{
+  "name": "CompressionMaster Edu",
+  "description": "An interactive educational platform for visualizing and understanding complex data compression algorithms like Huffman, LZW, Arithmetic, and more.",
+  "requestFramePermissions": []
+}
